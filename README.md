@@ -6,6 +6,8 @@ This repository contains an Excel project named "ExcelProject_RoadAccidents.xlsx
 
 The Excel dashboard provides a comprehensive analysis of road accidents, with a focus on casualties and vehicle types. The dashboard consists of the following components:
 
+![ExcelProject_RoadAccidents_page-0001](https://github.com/Abdul7753/ExcelProjects/assets/116554694/7effb4c9-b6c0-4036-8f11-5b4a20bd8d37)
+
 ### Primary KPIs
 
 - Fatal Casualties: This KPI tracks the number of accidents resulting in fatalities.
